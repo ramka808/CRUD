@@ -1,5 +1,7 @@
 # CRUD
 
+Php + apache + mysql
+
 ```bash
 git clone https://github.com/ramka808/CRUD.git
 ```
