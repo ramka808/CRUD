@@ -9,6 +9,6 @@ cd CRUD
 ```
 
 ```bash
-dokcker-compose
+dokcker-compose up
 ```
 go to http://localhost:8000/display.php
